@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="food_choose">Food Choose</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="text_choose_food">Выберите еду</string>
+    <string name="with_you">С собой?</string>
+    <string name="toggle_yes">Yes</string>
+    <string name="toggle_no">NO</string>
+    <string name="checkbox_whopper">Воппер</string>
+    <string name="checkbox_fry">Картошка фри</string>
+    <string name="checkbox_beverages">Пепси/Фанта/Спрайт</string>
+    <string name="checkbox_sauce">Соус</string>
+    <string name="checkbox_desert">Десерт</string>
+    <string name="first">1</string>
+    <string name="second">2</string>
+    <string name="third">3</string>
+    <string name="cat_definition">The cat (Felis catus) is a domestic species of small carnivorous mammal. It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members of the family. A cat can either be a house cat, a farm cat, or a feral cat; the latter ranges freely and avoids human contact. Domestic cats are valued by humans for companionship and their ability to kill rodents. About 60 cat breeds are recognized by various cat registries.</string>
+    <string name="title_cats">Cats</string>
+    <string name="know_more">KNOW MORE</string>
+    <string name="cat_label">Cat</string>
+</resources>
